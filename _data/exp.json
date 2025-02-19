@@ -1,0 +1,78 @@
+[
+  {
+    "company": "University of Massachusetts ",
+    "company_location": "Dartmouth, MA",
+    "role": "Research Assistant",
+    "team": "Machine Learning",
+    "time_duration": "May 2024 - Present",
+    "details": [
+      {
+        "title": "Defense LLM Privacy Inference Via Latent State Vector Steering",
+        "description": "Enhanced privacy protection in chatbot interactions by 87\\% by developing an innovative framework using In Context Vectors (ICV), which prevented language models from inferring sensitive data across four major architectures.",
+        "languages": "Python,Machine Learning, Tensorflow, GenAI"
+      },
+      {
+        "title": "Evaluating Inference Capabilities of Large Language Models with Masked Data",
+        "description": "Authored the paper “Evaluating Inference Capabilities of Large Language Models with Masked Data” as First Author by conducting experiments on masking techniques that mitigated LLM inference of personal information across models like LLaMa 3.1, GPT-4o, and Mistral, contributing to new privacy-preserving strategies.",
+        "languages": "Python,Machine Learning, Tensorflow, GenAI"
+      }
+    ]
+  },
+  {
+    "company": "Apptile",
+    "company_location": "Bangalore, India",
+    "role": "Software Development Engineer(Machine Learning)",
+    "team": "App Builder",
+    "time_duration": "October 2021 - August 2023",
+    "details": [
+      {
+        "title": "No Code Mobile App Development Platform",
+        "description": "Worked on building the frontend of an app that gives an analysis of e-commerce business about different metrics for eg. (Total sales, Total orders).Constructed a pipeline that runs and fetches data from Shopify, and sends emails to the CEO/business managers, about different metrics(Total Sales, Total orders, Net sales, Best products........)",
+        "languages": "ReactNative,NodeJS,Typescript"
+      },
+      {
+        "title": "NLP Model",
+        "description": "Increased user retention by 15\\% by developing a chatbot for the website, demonstrating no-code mobile app development.Boosted user engagement by 20\\% through designing and deploying NLP models that enabled seamless natural language interactions in mobile apps",
+        "languages": "Python,StreamLit,LLM,GenAI"
+      }
+    ]
+  },
+  {
+    "company": "Pfizer",
+    "company_location": "Bangalore, India",
+    "role": "Full-Stack Developer",
+    "team": "Pfizer Analytics",
+    "time_duration": "November 2019 - October 2021",
+    "details": [
+      {
+        "title": "Drug Monitoring System",
+        "description": "Reduced data access time by 35\\% across 200+ locations by building a global drug distribution monitoring system during critical COVID-19 periods",
+        "languages": "ReactJS,NodeJS,MongoDB,TypeScript"
+      },
+      {
+        "title": "Notification System",
+        "description": "Increased efficiency in data management by leading a team of 7 developers to develop a notification system and global search feature",
+        "languages": "ReactJS,KAFKA,NodeJS,MongoDB,TypeScript"
+      }
+    ]
+  },
+  {
+    "company": "Upwork",
+    "company_location": "Bangalore, India",
+    "role": "Full-Stack Developer",
+    "team": "Web Building",
+    "time_duration": "November 2018 - October 2019",
+    "details": [
+      {
+        "title": "Survey Tool",
+        "description": "Developed a comprehensive survey tool for an Oxford doctor, enabling the collection of actionable data from 200+ teenagers facing mental health challenges; findings directly informed outreach strategies and support grant applications",
+        "languages": "ReactJS,NodeJS,MongoDB,TypeScript"
+      },
+      {
+        "title": "Badminton Web App",
+        "description": "A tool that will rate and track player's performance in various tournaments and on the court. Handled their registration and also kept track of their attendance.",
+        "languages": "ReactJS,KAFKA,NodeJS,MongoDB,TypeScript"
+      }
+    ]
+  }
+]

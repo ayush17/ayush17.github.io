@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Dialect Recognition",
+    "description": "The Dialect Recognition project focuses on building and training a machine learning model to classify regional dialects from audio files using Wav2Vec2, a state-of-the-art pre-trained model for speech processing. The model is trained on labeled audio data and evaluated for its accuracy in classifying dialects. This project aims to contribute to digital forensics and language recognition tasks by enabling automatic dialect classification for better insights and forensic evidence collection, achieving 86\\% accuracy.",
+    "languages": "Machine Learning,Neural Networks,Python"
+  },
+  {
+    "title": "Study Cube",
+    "description": "Created a platform exclusively for collaborative learning among students in a university setting. This app lets the students join a study room based on their meeting agenda keeping in mind the time and place of the meeting. You can also create your own study cubes for people to join in. This helps you connect with people who share the same interests as you.",
+    "languages": "React Native, MongoDB, Express, CSS, NodeJS"
+  },
+  {
+    "title": "Conducted Data Analysis Experiments",
+    "description": "Analyzed diverse datasets, including the CDC’s diabetes dataset and Boston killings dataset, uncovering over 15 actionable insights that informed best practices in data science, enhancing community knowledge and engagement.",
+    "languages": "Data Analysis,Statistics,Python"
+  },
+  {
+    "title": "Netflix Clone",
+    "description": "I have built a Netflix clone. This React project is currently undergoing development and will contain multiple pages: Home, Browse (which uses Firebase authentication), Sign In, and Sign Up. The Sign In connects to Firebase for user authentication, and the Sign Up uses Firebase Auth to store users in the Firebase database. The app is built with React and uses Styled Components for styling. React Hooks like useEffect, useState, and useContext are used extensively. Fuse.js powers live search, and all components are tested using React Testing Library. React Router is implemented for smooth navigation.",
+    "languages": "TypeScript, HTML/CSS, NodeJS, Webpack, Git, JavaScript, React, Redux"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Ayush Tiwari",
+    "website": "http://kumarpallav.com",
+    "email": "ayushtiwari17011995@gmail.com",
+    "email2": "ayushtiwari17011995@gmail.com",
+    "phone": "+1-774-503-5882",
+    "linkedin": "https://www.linkedin.com/in/ayush-tiwari-581b0b12a/",
+    "facebook": "https://www.facebook.com/footballerchuski/",
+    "github": "https://github.com/ayush17",
+    "languages": [
+      {
+        "language": "JavaScript"
+      },
+      {
+        "language": "TypeScript"
+      },
+      {
+        "language": "Python"
+      }
+    ],
+    "technologies": [
+      {
+        "technology": "NodeJs"
+      },
+      {
+        "technology": "ReactJS"
+      },
+      {
+        "technology": "Tensorflow"
+      },
+      {
+        "technology": "Pytorch"
+      }
+    ]
+  }
+]
